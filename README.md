@@ -2,9 +2,9 @@
 
 ## 소개 페이지 입니다.
 
-### 테스트
+### 팹리스 일경험 4기
 
-- 첫번째
+- [repo link](https://github.com/Fabless-Academy/Fab04-00-JHC)
 - 두번째
   - 하위 첫번째
 
